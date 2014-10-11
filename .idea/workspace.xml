@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b0add7b-82de-4756-8f44-9d5a1b6aeae0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-    </list>
+    <list default="true" id="6b0add7b-82de-4756-8f44-9d5a1b6aeae0" name="Default" comment="" />
     <ignored path="app_Ladna_Api.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="6b0add7b-82de-4756-8f44-9d5a1b6aeae0" time="1413027248693" ignored="false" />
     <file path="/routes.rb" changelist="6b0add7b-82de-4756-8f44-9d5a1b6aeae0" time="1413027312572" ignored="false" />
     <file path="/application.html.erb" changelist="6b0add7b-82de-4756-8f44-9d5a1b6aeae0" time="1413027717998" ignored="false" />
+    <file path="$PROJECT_DIR$/../app_very_good_site1/app/views/static_pages/home.html.erb" changelist="6b0add7b-82de-4756-8f44-9d5a1b6aeae0" time="1413027896737" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
