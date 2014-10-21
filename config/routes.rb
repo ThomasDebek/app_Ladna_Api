@@ -1,5 +1,20 @@
 Rails.application.routes.draw do
+
+
+  #get 'static_pages/about_us'
+  #get 'static_pages/gallery'
+ # get 'static_pages/pricing'
+  #get 'static_pages/references'
+ # get 'static_pages/contact'
+
+  get 'o_nas',      to: 'static_pages#about_us',   as: :about_us
+  get 'galeria',    to: 'static_pages#gallery',    as: :gallery
+  get 'cennik',     to: 'static_pages#pricing',    as: :pricing
+  get 'referencje', to: 'static_pages#references', as: :references
+  get 'kontakt',    to: 'static_pages#contact',    as: :contact
+
   root 'static_pages#home'
+
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

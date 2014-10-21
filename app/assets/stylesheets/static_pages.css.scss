@@ -1,3 +1,37 @@
 // Place all the styles related to the static_pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.about_us {
+  text-align: center;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  #o_nas_left {
+    text-align: center;
+  }
+}
+
+.pricing {
+  widows: 70%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+
+
+
+#tabelka {
+  border-collapse: collapse;
+  border: 1px solid #D4CDAF;
+  width: 100%;
+  margin: 0 0 20px 0;
+}
+
+#tabelka td {
+  border: 1px solid #D4CDAF;
+  padding: 5px;
+}
+
+
